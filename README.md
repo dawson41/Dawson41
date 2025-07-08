@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm T. Dawson Samuel 👋
 
-<!--
-**dawson41/Dawson41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate | 📊 Data & Python Enthusiast | 🌍 Open to work in Netherlands & Dubai
 
-Here are some ideas to get you started:
+🔹 Certified in IBM Applied Data Science & Python  
+🔹 Skills: Python, SQL, Tableau, Excel, Data Cleaning, Visualization  
+🔹 GitHub Projects: Data Analysis | Dashboards | Recommendation Systems  
+🔹 Languages: English, Hindi, Telugu | 🇩🇪 German A2 in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I’m a B.Tech graduate passionate about solving problems with data. I have hands-on skills in Python, SQL, Tableau, and Excel, backed by IBM and Coursera certifications in Data Science and Programming.
+
+Currently building real-world projects on GitHub including a movie recommendation engine, Tableau dashboards, and SQL analysis reports. I'm actively looking for entry-level roles or internships where I can apply my skills and grow.
+
+📌 Skills: Python | SQL | Tableau | Excel | Data Cleaning & Visualization  
+📜 Certifications: IBM Applied Data Science | Python for Everybody | TCS iON  
+🌍 Languages: English, Telugu, Hindi | 🇩🇪 Learning German (A2)
+
+🔎 Open to relocation and remote roles in Netherlands & Dubai. Let’s connect!
+
+📬 Contact: tsamueldawson54@gmail.com
+
